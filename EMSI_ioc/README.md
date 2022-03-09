@@ -1,5 +1,7 @@
 # Introduction
 
+La maintenance des applications ouvertes à la modification est très difficile, c'est pourquoi nous utilisons le concept d'applications ouvertes à l'extension et fermées aux modifications qui nous permettent d'utiliser des interfaces pour implémenter différentes versions.
+
 # Enoncé 
 
 * Créer l’interface IDAO
@@ -7,8 +9,8 @@
 * Créer l’interface IMetier 
 * Créer une implémentation de l’interface IMetier
 * Créer la couche présentation en faisant l’injection de dépendances
-	Par instanciation statique
-	Par instanciation dynamique
+- Par instanciation statique
+- Par instanciation dynamique
 
 
 # Conception
@@ -20,19 +22,23 @@
 ## Instanciation statique
 
 Version Base de données :
-![DBAV](images/DDC.png)
+
+![DBAV](images/StatiqueDBA.png)
 
 Version Capteur :
-![CAPV](images/DDC.png)
+
+![CAPV](images/statiqueCapt.png)
 
 
 ## Instanciation dynamique
 
 Version Base de données :
-![DBAV](images/DDC.png)
+
+![DBAV](images/DynamiqueDBA.png)
 
 Version Capteur :
-![CAPV](images/DDC.png)
+
+![CAPV](images/DynamiqueCapt.png)
 
 ## Conclusion
 
