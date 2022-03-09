@@ -17,7 +17,7 @@ La maintenance des applications ouvertes à la modification est très difficile,
 
 ![DiagrammeDeClass](images/DDC.png)
 
-# Capture d'éran 
+# Capture d'écran
 
 ## Instanciation statique
 
