@@ -4,4 +4,4 @@
 
 # Conception
 
-![DiagrammeDeClass](/images/Diagramme_De_Class)
+![DiagrammeDeClass](images/DDC)
